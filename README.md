@@ -27,7 +27,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](../src/images/animacao.gif)
+![](./images/animacao.gif)
 
 ### Links
 
